@@ -1,6 +1,14 @@
-# CS-340-12642-M01-Client-Server-Development-2026-C-3-May-Jun-
+# CS 340: Client/Server Development
+
 Course repository for CS-340 Client/Server Development, containing project files, database work, and application code for the 2026 C-3 term.
 
+
+## Portfolio Contents
+
+- [`animal_shelter (1).py`](animal_shelter%20(1).py) — reusable Python CRUD module for MongoDB data access.
+- [`ProjectTwoDashboard (1).ipynb`](ProjectTwoDashboard%20(1).ipynb) — interactive dashboard project.
+- [`Grazioso Salvare Logo (1).png`](Grazioso%20Salvare%20Logo%20(1).png) — dashboard branding asset.
+- [`CS340 7-2 Project Two Submission (README) (1).docx`](CS340%207-2%20Project%20Two%20Submission%20(README)%20(1).docx) — submitted project documentation.
 
 ## Reflection
 
